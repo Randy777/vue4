@@ -1,0 +1,129 @@
+
+]javascript:S2137
+"ADo not use "undefined" to declare a parameter - use another name.(Á«×»
+:javascript:S2814ß"'ms' is already defined.(ËØ‹Âúÿÿÿÿ
+Tjavascript:S1117ä"2'selector' is already declared in the upper scope.(Ğ‹»üÿÿÿÿ
+Qjavascript:S1117ü"/'index' is already declared in the upper scope.(€äªøÿÿÿÿ
+Sjavascript:S1117ü"1'handler' is already declared in the upper scope.(€äªøÿÿÿÿ
+Ljavascript:S1117ı"/'index' is already declared in the upper scope.(¡¿‹ï
+Ojavascript:S1117ı"2'callback' is already declared in the upper scope.(¡¿‹ï
+Vjavascript:S1854"4Remove this useless assignment to variable "result".(ù±è¡úÿÿÿÿ
+Cjavascript:S1110©"!Remove these useless parentheses.(½äÊŞùÿÿÿÿ
+Kjavascript:S1117Ğ".'_mid' is already declared in the upper scope.(¹¤‹—
+Rjavascript:S1481±"5Remove the declaration of the unused 'name' variable.(æÔÈÓ
+Ojavascript:S1854±"2Remove this useless assignment to variable "name".(æÔÈÓ
+cjavascript:S2137Æ"ADo not use "undefined" to declare a parameter - use another name.(»®Í¯ıÿÿÿÿ
+8javascript:S1116ä"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ê"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Rjavascript:S1481•	"5Remove the declaration of the unused 'atan' variable.(¦Ìå£
+Ojavascript:S1854•	"2Remove this useless assignment to variable "atan".(¦Ìå£
+@javascript:S2814¼"#'targetTouches' is already defined.(ç”Í´
+Ljavascript:S2814½"*'changedTargetTouches' is already defined.(ŸÔ‰åüÿÿÿÿ
+Ljavascript:S1117Â"/'touch' is already declared in the upper scope.(‹ÛÇ
+Vjavascript:S1117ı"9'supportsPassive' is already declared in the upper scope.(¶½é
+[javascript:S1301¶"9"switch" statements should have at least 3 "case" clauses(üÈ»Ãÿÿÿÿÿ
+Tjavascript:S1854Ò"7Remove this useless assignment to variable "lastScale".(½Ëìô
+Tjavascript:S1854Ö"7Remove this useless assignment to variable "lastScale".(¾ıúæ
+8javascript:S1116ß"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+]javascript:S1481ú";Remove the declaration of the unused 'classArray' variable.(Öú”‚ÿÿÿÿÿ
+7javascript:S2814¹"'list' is already defined.(”ÁšÄ
+3javascript:S2814º"'i' is already defined.(öÛ²>
+Qjavascript:S1117Ú"/'index' is already declared in the upper scope.(ğ±Ù®ıÿÿÿÿ
+Qjavascript:S1117ˆ"/'index' is already declared in the upper scope.(ğ±Ù®ıÿÿÿÿ
+cjavascript:S2137Ò"ADo not use "undefined" to declare a parameter - use another name.(­¯×½øÿÿÿÿ
+gjavascript:S905»"FExpected an assignment or function call and instead saw an expression.(ÍˆòÃşÿÿÿÿ
+Bjavascript:S878»"!Unexpected use of comma operator.(ÍˆòÃşÿÿÿÿ
+gjavascript:S905¾"FExpected an assignment or function call and instead saw an expression.(ê„šúÿÿÿÿ
+Bjavascript:S878¾"!Unexpected use of comma operator.(ê„šúÿÿÿÿ
+Kjavascript:S1117Û".'name' is already declared in the upper scope.(Á¿É
+7javascript:S2814¥"'name' is already defined.(ëÁœâ
+<javascript:S2814®"'name' is already defined.(‚¤ŞÖÿÿÿÿÿ
+gjavascript:S905ß"FExpected an assignment or function call and instead saw an expression.(ç©›Éÿÿÿÿÿ
+Bjavascript:S878ß"!Unexpected use of comma operator.(ç©›Éÿÿÿÿÿ
+Ijavascript:S1656†"''urlAnchor.href' is assigned to itself.(—€ÆŞşÿÿÿÿ
+cjavascript:S2137›"ADo not use "undefined" to declare a parameter - use another name.(­¯×½øÿÿÿÿ
+Ojavascript:S1117³"2'duration' is already declared in the upper scope.(›úÇ½
+gjavascript:S905Ô"FExpected an assignment or function call and instead saw an expression.(®Š²šıÿÿÿÿ
+Kjavascript:S1117à".'name' is already declared in the upper scope.(ìµŞÕ
+Ljavascript:S1117î"/'Class' is already declared in the upper scope.(€–á
+cjavascript:S2137ù"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+^javascript:S2137±"ADo not use "undefined" to declare a parameter - use another name.(ÿ¨±Ö
+\javascript:S1481ˆ":Remove the declaration of the unused 'direction' variable.(•Õôıÿÿÿÿ
+Yjavascript:S1854ˆ"7Remove this useless assignment to variable "direction".(•Õôıÿÿÿÿ
+bjavascript:S905à!"FExpected an assignment or function call and instead saw an expression.(Šÿ³«
+>javascript:S2814Ÿ""'easing' is already defined.(¾”ìÈøÿÿÿÿ
+bjavascript:S905î""FExpected an assignment or function call and instead saw an expression.(£Ğ…‡
+Ojavascript:S1117À#"-'val' is already declared in the upper scope.(œÀèışÿÿÿÿ
+^javascript:S2137ä#"ADo not use "undefined" to declare a parameter - use another name.(ÿ¨±Ö
+ljavascript:S1481¬%"JRemove the declaration of the unused 'SELECTOR_SLIDER_INDICATOR' variable.(¾ôÆõúÿÿÿÿ
+ijavascript:S1854¬%"GRemove this useless assignment to variable "SELECTOR_SLIDER_INDICATOR".(¾ôÆõúÿÿÿÿ
+Wjavascript:S1481×%"5Remove the declaration of the unused 'page' variable.(Ìïë¼şÿÿÿÿ
+Tjavascript:S1854×%"2Remove this useless assignment to variable "page".(Ìïë¼şÿÿÿÿ
+4javascript:S2814ı%"'i' is already defined.(ı¢¯à
+6javascript:S2814ı%"'len' is already defined.(ı¢¯à
+7javascript:S2814ş%"'item' is already defined.(ûä –
+4javascript:S2814&"'i' is already defined.(—Ğó
+6javascript:S2814&"'len' is already defined.(—Ğó
+9javascript:S2814˜&"'i' is already defined.(í³–±ûÿÿÿÿ
+;javascript:S2814˜&"'len' is already defined.(í³–±ûÿÿÿÿ
+8javascript:S1116ö*"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+9javascript:S2814À,"'detail' is already defined.(ı¥¼ş
+ajavascript:S1481”."?Remove the declaration of the unused 'zoomOutOpacity' variable.(şà¼–üÿÿÿÿ
+^javascript:S1854”."<Remove this useless assignment to variable "zoomOutOpacity".(şà¼–üÿÿÿÿ
+gjavascript:S905Ì."FExpected an assignment or function call and instead saw an expression.(ÍåÿÑüÿÿÿÿ
+gjavascript:S905â."FExpected an assignment or function call and instead saw an expression.(ÍåÿÑüÿÿÿÿ
+bjavascript:S905˜1"FExpected an assignment or function call and instead saw an expression.(±û­Ô
+cjavascript:S2137§2"ADo not use "undefined" to declare a parameter - use another name.(˜ÜÈüÿÿÿÿ
+_javascript:S1481¯2"BRemove the declaration of the unused 'CLASS_SLIDER_ITEM' variable.(ÌœÊÈ
+\javascript:S1854¯2"?Remove this useless assignment to variable "CLASS_SLIDER_ITEM".(ÌœÊÈ
+9javascript:S2814Œ3"'i' is already defined.(±¦¢¯üÿÿÿÿ
+4javascript:S28145"'i' is already defined.(óÒß²
+6javascript:S28145"'len' is already defined.(óÒß²
+Ujavascript:S1854¾5"8Remove this useless assignment to variable "isDisabled".(Ô×Î·
+pjavascript:S1871Ú6"NThis branch's code block is the same as the block for the branch on line 7000.(Íé´Íøÿÿÿÿ
+pjavascript:S1871Ü6"NThis branch's code block is the same as the block for the branch on line 7002.(Äõéóıÿÿÿÿ
+4javascript:S2814û6"'i' is already defined.(óÒß²
+9javascript:S2814…7"'i' is already defined.(ÏÃ¹Üûÿÿÿÿ
+;javascript:S2814…7"'len' is already defined.(ÏÃ¹Üûÿÿÿÿ
+8javascript:S1116˜7"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+9javascript:S2814¼7"'i' is already defined.(‚£Å˜üÿÿÿÿ
+=javascript:S2814ü7"'input' is already defined.(€¯ÆÂıÿÿÿÿ
+bjavascript:S905ë9"FExpected an assignment or function call and instead saw an expression.(‹®ÙÖ
+Ljavascript:S2814Š:"*'CLASS_POPUP_BACKDROP' is already defined.(ÀÏûïÿÿÿÿÿ
+bjavascript:S905¹:"FExpected an assignment or function call and instead saw an expression.(¾³Ã‘
+bjavascript:S905¿:"FExpected an assignment or function call and instead saw an expression.(¤û•Õ
+bjavascript:S905ê:"FExpected an assignment or function call and instead saw an expression.(¾³Ã‘
+ajavascript:S905´<"FExpected an assignment or function call and instead saw an expression.(úŸ½c
+Sjavascript:S1117Ê<"1'options' is already declared in the upper scope.(ıêéæşÿÿÿÿ
+>javascript:S2814Ê="'action' is already defined.(ä¹Ô¶úÿÿÿÿ
+Pjavascript:S1117ù=".'type' is already declared in the upper scope.(áó”ˆÿÿÿÿÿ
+kjavascript:S1871?"NThis branch's code block is the same as the block for the branch on line 8075.(¡÷ƒí
+6javascript:S2814®@"'val' is already defined.(Ôş¸­
+Zjavascript:S1481Ï@">Remove the declaration of the unused 'instanceArray' variable.(’Çü!
+Sjavascript:S1117Ù@"1'options' is already declared in the upper scope.(€¡ûõşÿÿÿÿ
+]javascript:S1481ñ@";Remove the declaration of the unused 'CLASS_ICON' variable.(ÔÅ×ïûÿÿÿÿ
+Zjavascript:S1854ñ@"8Remove this useless assignment to variable "CLASS_ICON".(ÔÅ×ïûÿÿÿÿ
+Qjavascript:S3782Ó"4Change this argument to the documented type: String.(É°Ÿ™
+ajavascript:S2259í6"DTypeError can be thrown as "button" might be null or undefined here.(‹ïëµ
+gjavascript:S3403¡"JRemove this "!==" check; it will always be true. Did you mean to use "!="?(¨Õ–å
+|javascript:S4165Ç"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(Ş¼Ş¢
+‰javascript:S2703ã4"gAdd the "let", "const" or "var" keyword to this declaration of "sliderActionRight" to make it explicit.(¬—ôıÿÿÿÿ
+javascript:S2703…5"bAdd the "let", "const" or "var" keyword to this declaration of "buttonOffset" to make it explicit.(²×Ö¹
+|javascript:S2703€ "_Add the "let", "const" or "var" keyword to this declaration of "momentumY" to make it explicit.(ƒØ„
+„javascript:S2703ã4"bAdd the "let", "const" or "var" keyword to this declaration of "buttonsRight" to make it explicit.(¬—ôıÿÿÿÿ
+javascript:S2703ü"_Add the "let", "const" or "var" keyword to this declaration of "momentumX" to make it explicit.(ñÔªêıÿÿÿÿ
+}javascript:S2703ä4"`Add the "let", "const" or "var" keyword to this declaration of "translateX" to make it explicit.(ññšØ
+‚javascript:S2703÷."`Add the "let", "const" or "var" keyword to this declaration of "parentNode" to make it explicit.(—ˆ«ùÿÿÿÿ
+wjavascript:S2703µ'"ZAdd the "let", "const" or "var" keyword to this declaration of "time" to make it explicit.(üîœ
+€javascript:S2703â4"^Add the "let", "const" or "var" keyword to this declaration of "isOpened" to make it explicit.(Î³ûóøÿÿÿÿ
+‰javascript:S2703ä4"lAdd the "let", "const" or "var" keyword to this declaration of "sliderActionRightWidth" to make it explicit.(ññšØ
+ˆjavascript:S2703ã4"fAdd the "let", "const" or "var" keyword to this declaration of "sliderActionLeft" to make it explicit.(¬—ôıÿÿÿÿ
+{javascript:S2703‡"^Add the "let", "const" or "var" keyword to this declaration of "isReturn" to make it explicit.(Å×îĞ
+ƒjavascript:S2703ã4"aAdd the "let", "const" or "var" keyword to this declaration of "buttonsLeft" to make it explicit.(¬—ôıÿÿÿÿ
+ˆjavascript:S2703ä4"kAdd the "let", "const" or "var" keyword to this declaration of "sliderActionLeftWidth" to make it explicit.(ññšØ
+€javascript:S2703Õ9"^Add the "let", "const" or "var" keyword to this declaration of "duration" to make it explicit.(Ä°‘úÿÿÿÿ
+€javascript:S2703â4"^Add the "let", "const" or "var" keyword to this declaration of "progress" to make it explicit.(Î³ûóøÿÿÿÿ
+…javascript:S2703â4"cAdd the "let", "const" or "var" keyword to this declaration of "openedActions" to make it explicit.(Î³ûóøÿÿÿÿ
+“javascript:S2703ã4"qAdd the "let", "const" or "var" keyword to this declaration of "sliderRequestAnimationFrame" to make it explicit.(¬—ôıÿÿÿÿ
+‡javascript:S2703ã4"eAdd the "let", "const" or "var" keyword to this declaration of "sliderDirection" to make it explicit.(¬—ôıÿÿÿÿ
+javascript:S2703ä4"dAdd the "let", "const" or "var" keyword to this declaration of "lastTranslateX" to make it explicit.(ññšØ
