@@ -22,13 +22,29 @@
 </template>
 
 <script>
+
+  import { Toast } from "mint-ui";
 export default {
     data(){
-        return{}
+        return{
+            newsList: []
+        };
     },
-    // methods:{
-    //     this.$http.get();
-    // },
+    created(){
+      this.func();
+    },
+    methods:{
+        func(){
+            this.$http.get('').then(result =>{
+                if (result.body.status === 0){
+                    this.newsList = result.body.message;
+                  Toast('1');
+                }else {
+                  Toast('2');
+                }
+            })
+        }
+    },
   name: 'App'
 }
 </script>

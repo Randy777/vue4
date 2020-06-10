@@ -8,12 +8,17 @@ import ShoppingContainer from "../components/tabbar/ShoppingContainer";
 import SearchContainer from "../components/tabbar/SearchContainer";
 import MemberContainer from "../components/tabbar/MemberContainer";
 import NewsList from "../news/newList";
-vue
+import VueResource from "vue-resource"
+import NewsInfo from "../news/newsInfo"
+Vue.use(VueResource)
+Vue.http.options.root = "";
+import moment from 'moment';
+//全局过滤器
+Vue.filter('dateFormat',function (dataStr,pattern="YYYY-MM-DD HH:mm:ss") {
+  return moment(dataStr).format(pattern)
+})
 
 // 按需导入Mint-ui的组件
-// import MintUI from 'mint-ui'
-// // Vue.use(MintUI)
-// Vue.component(MintUI)
 import 'mint-ui/lib/style.css'
 import { Header, Swipe, SwipeItem} from 'mint-ui'
 Vue.component(Header.name,Header)
@@ -24,6 +29,9 @@ import MUI from '../assets/mui/css/mui.min.css'
 Vue.component(MUI)
 Vue.use(Router)
 
+
+// export default VueResource
+
 export default new Router({
   routes: [
     { path: '/', redirect: '/shopping'},
@@ -31,6 +39,7 @@ export default new Router({
     { path: '/shopping', component: ShoppingContainer },
     { path: '/member', component: MemberContainer},
     { path: '/search', component: SearchContainer},
-    { path: '/home/newsList', component: NewsList}
+    { path: '/home/newsList', component: NewsList},
+    { path: '/home/newsInfo/:id', component: NewsInfo}
   ]
 })
